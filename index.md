@@ -3,7 +3,8 @@ title: Unstructured Grid Adaptation Working Group
 ---
 
 # UGAWG
-Future home of the Unstructured Grid Adaptation Working Group website
+The Unstructured Grid Adaptation Working Group (UGAWG) is composed
+of researchers
 
 # References
 - Unstructured Grid Adaptation and Solver Technology for Turbulent Flows *To appear AIAA SciTech 2016*
@@ -12,3 +13,4 @@ Future home of the Unstructured Grid Adaptation Working Group website
 Impacts, and Recommended Investments Toward
 CFD Vision 2030 [AIAA-2016-3323](https://arc.aiaa.org/doi/abs/10.2514/6.2016-3323)
 - Comparing Anisotropic Output-Based Grid Adaptation Methods by Decomposition [AIAA-2015-2292](https://arc.aiaa.org/doi/abs/10.2514/6.2015-2292)
+- CFD Vision 2030 Study: A Path to Revolutionary Computational Aerosciences [NASA/CR-2014-218178](https://ntrs.nasa.gov/search.jsp?R=20140003093)
