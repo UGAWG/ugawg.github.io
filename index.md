@@ -9,6 +9,20 @@ to a metric (anisotropic size request).
 The modeling of turbulent flow with Computational Fluid Dynamics
 (CFD) and solution-adapted grids is a target
 application working group researchers.
+The group meets virtually for deatiled implementaion details discussions
+and to make plans for publication.
+
+# Benchmark
+The repositories in the UGAWG GitHub group house test cases for the
+verification of adaptive grid mechanics and integrated grid adaptation
+processes (Flow solver, error estimate, metric construction, grid mechanics).
+The Gamma Mesh Format is used for grid, geometry association, solution, and
+metric interchange.
+A reference implementation of readers and writers with
+documentation is available at
+[LoicMarechal/libMeshb](https://github.com/LoicMarechal/libMeshb).
+File conventions and evaluation methods are described in
+[adapt-benchmarks](https://github.com/UGAWG/adapt-benchmarks).
 
 # References
 - Unstructured Grid Adaptation and Solver Technology for Turbulent Flows *To appear AIAA SciTech 2016*
