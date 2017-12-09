@@ -1,6 +1,6 @@
 ---
 title: Unstructured Grid Adaptation Working Group
-layout: post
+layout: media
 ---
 
 # UGAWG
