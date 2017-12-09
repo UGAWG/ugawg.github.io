@@ -18,7 +18,13 @@ verification of adaptive grid mechanics and integrated grid adaptation
 processes (Flow solver, error estimate, metric construction, grid mechanics).
 This benchmark is available to evaluate modifications to
 existing methods and develop new approaches to metric conforming
-grid adaptation and generation.
+grid adaptation, grid generation, and integrated grid adaptation
+processes.
+The benchmark is collection of case descriptions,
+geometry, input grids, and output grids and
+defines expected performance
+and enables verification by comparisons.
+
 The Gamma Mesh Format is used for grid, geometry association, solution, and
 metric interchange.
 A reference implementation of readers and writers with
@@ -29,8 +35,6 @@ File conventions and evaluation methods are described in
 Grid adaptation tools are applied to these benchmarks and
 the resulting grids are available in repositories via
 [Git Large File Storage](https://git-lfs.github.com/).
-This collection of grids defines an expected performance
-and enables verification by comparisons.
 
 # References
 - Unstructured Grid Adaptation and Solver Technology for Turbulent Flows, *to appear AIAA SciTech 2016*
