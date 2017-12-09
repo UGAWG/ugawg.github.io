@@ -12,7 +12,7 @@ application of the working group researchers.
 The group meets virtually for detailed implementation details discussions
 and to make plans for publication.
 
-# Benchmark
+# Verification and Validation Benchmark
 The repositories in the UGAWG GitHub group house test cases for the
 verification of adaptive grid mechanics and integrated grid adaptation
 processes (Flow solver, error estimate, metric construction, grid mechanics).
@@ -25,7 +25,7 @@ File conventions and evaluation methods are described in
 [adapt-benchmarks](https://github.com/UGAWG/adapt-benchmarks).
 
 # References
-- Unstructured Grid Adaptation and Solver Technology for Turbulent Flows *To appear AIAA SciTech 2016*
+- Unstructured Grid Adaptation and Solver Technology for Turbulent Flows, *to appear AIAA SciTech 2016*
 - First benchmark of the Unstructured Grid Adaptation Working Group [Procedia Engineering, Volume 203, 2017, Pages 154-166](https://doi.org/10.1016/j.proeng.2017.09.800)
 - Unstructured Grid Adaptation: Status, Potential
 Impacts, and Recommended Investments Toward
