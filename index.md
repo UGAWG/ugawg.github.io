@@ -22,7 +22,7 @@ grid adaptation, grid generation, and integrated grid adaptation
 processes.
 The benchmark is collection of case descriptions,
 geometry, input grids, and output grids,
-which defines expected performance
+which define expected performance
 and enables verification by comparisons.
 
 The Gamma Mesh Format is used for grid, geometry association, solution, and
