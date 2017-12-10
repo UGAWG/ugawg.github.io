@@ -23,7 +23,7 @@ processes.
 The benchmark is collection of case descriptions,
 geometry, input grids, and output grids,
 which define expected performance
-and enables verification by comparisons.
+and enables verification by comparison.
 
 The Gamma Mesh Format is used for grid, geometry association, solution, and
 metric interchange.
