@@ -38,7 +38,7 @@ the resulting grids are available in repositories via
 
 # References
 - Unstructured Grid Adaptation and Solver Technology for Turbulent Flows, *to appear AIAA SciTech 2018*
-- First benchmark of the Unstructured Grid Adaptation Working Group, [Procedia Engineering, Volume 203, 2017, Pages 154-166](https://doi.org/10.1016/j.proeng.2017.09.800). The PDF of the [IMR 2017 Presentation](pdf/ugawg-imr-2017-benchmark-1-talk.pdf).
+- First benchmark of the Unstructured Grid Adaptation Working Group, [Procedia Engineering, Volume 203, 2017, Pages 154-166](https://doi.org/10.1016/j.proeng.2017.09.800). PDF of the [IMR 2017 Presentation](pdf/ugawg-imr-2017-benchmark-1-talk.pdf).
 - Unstructured Grid Adaptation: Status, Potential
 Impacts, and Recommended Investments Toward
 CFD Vision 2030, [AIAA-2016-3323](https://arc.aiaa.org/doi/abs/10.2514/6.2016-3323).
