@@ -6,8 +6,8 @@ title: Unstructured Grid Adaptation Working Group
 The Unstructured Grid Adaptation Working Group (UGAWG) is composed of
 researchers that develop tools to modify unstructured grids to conform
 to a metric (anisotropic size request).
-The modeling of turbulent flow with Computational Fluid Dynamics
-(CFD) with solution-adapted grids is a target
+Computational Fluid Dynamics
+(CFD) turbulent flow simulation with solution-adapted grids is a target
 application of the working group researchers.
 The group meets virtually for detailed implementation details discussions
 and to make plans for publication.
