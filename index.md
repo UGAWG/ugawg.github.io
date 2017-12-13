@@ -41,6 +41,6 @@ the resulting grids are available in repositories via
 - First benchmark of the Unstructured Grid Adaptation Working Group, [Procedia Engineering, Volume 203, 2017, Pages 154-166](https://doi.org/10.1016/j.proeng.2017.09.800). PDF of the [IMR 2017 Presentation](pdf/ugawg-imr-2017-benchmark-1-talk.pdf).
 - Unstructured Grid Adaptation: Status, Potential
 Impacts, and Recommended Investments Toward
-CFD Vision 2030, [AIAA-2016-3323](https://arc.aiaa.org/doi/abs/10.2514/6.2016-3323).
-- Comparing Anisotropic Output-Based Grid Adaptation Methods by Decomposition, [AIAA-2015-2292](https://arc.aiaa.org/doi/abs/10.2514/6.2015-2292).
+CFD Vision 2030, [AIAA-2016-3323](https://arc.aiaa.org/doi/abs/10.2514/6.2016-3323). PDF of the [AVIATION 2016 Presentation](pdf/aiaa-2016-3323-grid-adapt-2030-talk.pdf).
+- Comparing Anisotropic Output-Based Grid Adaptation Methods by Decomposition, [AIAA-2015-2292](https://arc.aiaa.org/doi/abs/10.2514/6.2015-2292). PDF of the [AVIATION 2015 Presentation](pdf/aiaa-2015-2292-decomposition-talk.pdf).
 - CFD Vision 2030 Study: A Path to Revolutionary Computational Aerosciences, [NASA/CR-2014-218178](https://ntrs.nasa.gov/search.jsp?R=20140003093).
