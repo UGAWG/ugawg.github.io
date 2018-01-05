@@ -37,7 +37,7 @@ the resulting grids are available in repositories via
 [Git Large File Storage](https://git-lfs.github.com/).
 
 # References
-- Unstructured Grid Adaptation and Solver Technology for Turbulent Flows, *to appear AIAA SciTech 2018*
+- Unstructured Grid Adaptation and Solver Technology for Turbulent Flows, [AIAA-2018-1103](https://arc.aiaa.org/doi/abs/10.2514/6.2018-1103). PDF of the [SciTech 2018 Presentation](pdf/aiaa-2018-1103-solver-tech-adapt-talk.pdf). 
 - First benchmark of the Unstructured Grid Adaptation Working Group, [Procedia Engineering, Volume 203, 2017, Pages 154-166](https://doi.org/10.1016/j.proeng.2017.09.800). PDF of the [IMR 2017 Presentation](pdf/ugawg-imr-2017-benchmark-1-talk.pdf).
 - Unstructured Grid Adaptation: Status, Potential
 Impacts, and Recommended Investments Toward
