@@ -37,6 +37,7 @@ the resulting grids are available in repositories via
 [Git Large File Storage](https://git-lfs.github.com/).
 
 # References
+- Geometry Modeling for Unstructured Mesh Adaptation, AVIATION 2019.
 - Parallel Anisotropic Unstructured Grid Adaptation, [AIAA-2019-1995](https://arc.aiaa.org/doi/abs/10.2514/6.2019-1995).  PDF of the [SciTech 2019 Presentation](pdf/aiaa-2019-1995-parallel-adapt-talk.pdf).
 - Verification of Unstructured Grid Adaptation Components, [AIAA-2019-1723](https://arc.aiaa.org/doi/abs/10.2514/6.2019-1723).  PDF of the [SciTech 2019 Presentation](pdf/aiaa-2019-1723-adapt-verification-talk.pdf).
 - Unstructured Grid Adaptation and Solver Technology for Turbulent Flows, [AIAA-2018-1103](https://arc.aiaa.org/doi/abs/10.2514/6.2018-1103). PDF of the [SciTech 2018 Presentation](pdf/aiaa-2018-1103-solver-tech-adapt-talk.pdf). 
