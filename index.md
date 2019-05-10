@@ -13,7 +13,8 @@ The group meets virtually for detailed implementation details discussions
 and to make plans for publication.
 
 # Verification Benchmark
-The repositories in the UGAWG GitHub group house test cases for the
+The [repositories in the UGAWG GitHub group](https://github.com/UGAWG)
+house test cases for the
 verification of adaptive grid mechanics and integrated grid adaptation
 processes (Flow solver, error estimate, metric construction, grid mechanics).
 This benchmark is available to evaluate modifications to
