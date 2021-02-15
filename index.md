@@ -38,6 +38,10 @@ the resulting grids are available in repositories via
 [Git Large File Storage](https://git-lfs.github.com/).
 
 # References
+- Verification of Viscous Goal-Based Anisotropic Mesh Adaptation, [AIAA-2021-1362](https://arc.aiaa.org/doi/abs/10.2514/6.2021-1362).
+- Comparing Unstructured Adaptive Mesh Solutions for the High Lift Common Research Model Airfoil, [AIAA-2020-3219](https://arc.aiaa.org/doi/abs/10.2514/6.2020-3219).
+- Verification of Unstructured Grid Adaptation Components, [AIAAJ 58(9) 2020](https://doi.org/10.2514/1.J058783).
+- Verification of Anisotropic Mesh Adaptation for RANS Simulations over ONERA M6 Wing, [AIAAJ 58(4) 2020](https://doi.org/10.2514/1.J059158).
 - Geometry Modeling for Unstructured Mesh Adaptation, [AIAA-2019-2946](https://arc.aiaa.org/doi/abs/10.2514/6.2019-2946).  PDF of the [AVIATION 2019 Presentation](pdf/aiaa-2019-2946-geometry-modeling-talk.pdf).
 - Parallel Anisotropic Unstructured Grid Adaptation, [AIAA-2019-1995](https://arc.aiaa.org/doi/abs/10.2514/6.2019-1995).  PDF of the [SciTech 2019 Presentation](pdf/aiaa-2019-1995-parallel-adapt-talk.pdf).
 - Verification of Unstructured Grid Adaptation Components, [AIAA-2019-1723](https://arc.aiaa.org/doi/abs/10.2514/6.2019-1723).  PDF of the [SciTech 2019 Presentation](pdf/aiaa-2019-1723-adapt-verification-talk.pdf).
