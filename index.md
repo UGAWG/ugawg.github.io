@@ -38,6 +38,7 @@ the resulting grids are available in repositories via
 [Git Large File Storage](https://git-lfs.github.com/).
 
 # References
+- Parallel Anisotropic Unstructured Grid Adaptation, [AIAAJ 59(11) 2021](https://arc.aiaa.org/doi/abs/10.2514/1.J060270).
 - Verification of Viscous Goal-Based Anisotropic Mesh Adaptation, [AIAA-2021-1362](https://arc.aiaa.org/doi/abs/10.2514/6.2021-1362).
 - Comparing Unstructured Adaptive Mesh Solutions for the High Lift Common Research Model Airfoil, [AIAA-2020-3219](https://arc.aiaa.org/doi/abs/10.2514/6.2020-3219).
 - Verification of Unstructured Grid Adaptation Components, [AIAAJ 58(9) 2020](https://doi.org/10.2514/1.J058783).
